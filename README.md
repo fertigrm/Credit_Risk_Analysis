@@ -52,4 +52,7 @@ The ClusterCentroids model had an accuracy score of around 53%
 The high risk precision was 1% with an f1 of 1%
 The low risk precision was 100%
 
+## Summary of Analysis
+All the models show a low precision in being able to determine wether or not the credit risk is high.
+Due to this, I am not confident in recommending any of these models to be used.
 
